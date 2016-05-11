@@ -75,7 +75,7 @@ on how to do so.
 
 ## Usage
 
-Material-UI components are easy to use. The quickest way to get up and running is by using the `MuiThemeProvider` to inject the theme into your application context. Following that, you can to use any of the components as demonstrated in our documentation.
+Material-UI components are easy to use. The quickest way to get up and running is by using the `MuiThemeProvider` to inject the theme into your application context. Following that, you can use any of the components as demonstrated in our documentation.
 
 Here is a quick example to get you started:
 
